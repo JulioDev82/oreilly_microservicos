@@ -5,6 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="25be6f82-a6b5-4030-b617-75e7e395bff5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../currency-exchange-service/src/main/java/com/in28minutes/microservices/currency_exchange_service/CurrencyExchange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-exchange-service/src/main/java/com/in28minutes/microservices/currency_exchange_service/CurrencyExchangeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-exchange-service/src/main/java/com/in28minutes/microservices/currency_exchange_service/CurrencyExchangeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-exchange-service/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-exchange-service/urls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../currency-exchange-service/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../currency-exchange-service/.idea/jpa-buddy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../currency-exchange-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../currency-exchange-service/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../currency-exchange-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../currency-exchange-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../currency-exchange-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../currency-exchange-service/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../spring-cloud-config-server/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../spring-cloud-config-server/.idea/workspace.xml" afterDir="false" />
     </list>

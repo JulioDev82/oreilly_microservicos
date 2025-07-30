@@ -5,6 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71ce6f9f-924d-4e72-b92f-06698412ee7c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../currency-exchange-service/src/main/java/com/in28minutes/microservices/currency_exchange_service/CurrencyExchange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-exchange-service/src/main/java/com/in28minutes/microservices/currency_exchange_service/CurrencyExchangeController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-exchange-service/src/main/java/com/in28minutes/microservices/currency_exchange_service/CurrencyExchangeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-exchange-service/src/main/resources/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currency-exchange-service/urls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../currency-exchange-service/.idea/jpa-buddy.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../currency-exchange-service/.idea/jpa-buddy.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../currency-exchange-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../currency-exchange-service/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../currency-exchange-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../currency-exchange-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../currency-exchange-service/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../currency-exchange-service/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../limits-service/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../limits-service/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -36,7 +45,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Julio/Study/Spring/Oreilly3/git-local-config-repo"
+    "last_opened_file_path": "C:/Julio/Study/Spring/Oreilly3/currency-exchange-service"
   }
 }]]></component>
   <component name="RunManager">
@@ -69,5 +78,16 @@
       <updated>1753301768963</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
